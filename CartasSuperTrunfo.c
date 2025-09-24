@@ -4,7 +4,7 @@
 
 int main(){
     printf("Cartas Super Trunfo!\n");
-    
+    printf("Novo comit!\n");
 
 
 
